@@ -19,5 +19,5 @@
 * macro
 * undo tree
 * file fuzzy find
-* splits
 * grep
+* splits
